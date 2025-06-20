@@ -3,11 +3,6 @@ A simple Korean TTS video generator with subtitle syncing and background merging
 
 **자동으로 대본을 음성(TTS)과 자막이 포함된 영상으로 만들어주는 Python 스크립트**
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![MoviePy](https://img.shields.io/badge/Library-MoviePy-orange)
-![gTTS](https://img.shields.io/badge/TTS-gTTS-lightgrey)
-![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
-
 ---
 
 ## 📌 주요 기능
