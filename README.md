@@ -22,7 +22,7 @@ A simple Korean TTS video generator with subtitle syncing and background merging
 - [Python 3.9 이상](https://www.python.org/downloads/)
 - [FFmpeg (Windows용 zip)](https://www.gyan.dev/ffmpeg/builds/)
     - 다운로드 후 `ffmpeg.exe` 경로를 `C:\ffmpeg\bin\ffmpeg.exe`로 설정
-- [ImageMagick 6.9.13-Q16-HDRI](https://imagemagick.org/download/binaries/ImageMagick-6.9.13-7-Q16-x64-dll.exe)
+- [ImageMagick 6.9.13-Q16-HDRI](https://imagemagick.org/archive/binaries/)
     - 코드에 절대주소로 명시했기에, C:/Program Files/ImageMagick-6.9.13-Q16-HDRI 에 설치 필요
 
 ### 2. 프로젝트 클론 및 패키지 설치
