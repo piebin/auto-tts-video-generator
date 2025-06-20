@@ -32,6 +32,8 @@ git clone https://github.com/piebin/auto-tts-video-generator.git
 cd auto-tts-video-generator
 pip install -r requirements.txt
 
+```
+
 
 
 🔤 한글 폰트 주의사항
@@ -39,7 +41,7 @@ pip install -r requirements.txt
 자막에 사용할 한글 폰트는 시스템 폰트 중 하나인 HY헤드라인M (HMKMRHD.TTF) 를 사용합니다.
 저작권 문제 없는 무료 배포 폰트입니다.
 
-📄 라이선스
+
 MIT License
 
 
